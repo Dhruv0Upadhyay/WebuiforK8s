@@ -21,3 +21,4 @@ Feature added -
 ## Some steps
  👉  Paste the Kubernetes.py file /var/www/cgi-bin/
  👉  Paste the rest files and images folder in /var/www/html/   
+ 👉  Add the files with ".png" extension in a folder in /var/www/html/images where , one need to create "images" folder.
